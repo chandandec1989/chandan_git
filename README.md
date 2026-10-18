@@ -1,3 +1,11 @@
+# Git TUTORIAL REAME
+
+This is a tutorial for git.
+
+![images](https://miro.medium.com/1*mtsk3fQ_BRemFidhkel3dA.png)
+
+
+# GIT and GitHub UseFull Command:-
 =============================================GIT & GITHUB===========================================
 • Git & GitHub Command:-
 1. Repository & Setup Shortcuts:-
