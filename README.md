@@ -40,7 +40,8 @@ This is a tutorial for git.
 	vi. Git clean -fd                         --     Remove untracked files & Folders
 		
 5. Stash Shortcuts:-
-	i. Git stash                              --     Stash current changes
+	i. Git stash                              --     Stash current changes (if u delete any file and you want back 
+	                                                                        then use this command to get back)
 	ii. Git stash list                        --     view stashes
 	iii. Git stash apply                      --     Apply latest stash
 	iv. Git stash pop                         --     Apply and remove latest stash
