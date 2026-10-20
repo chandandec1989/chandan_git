@@ -1,0 +1,14 @@
+# first time need to set up
+git init
+git remote add origin <git_URL>
+
+# make change
+git add .
+git commit -m "initial comment"
+git push -u origin master
+
+# To update the repo, make changes
+git add .
+git commit -m "update"
+git push
+
