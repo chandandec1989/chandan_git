@@ -12,6 +12,16 @@ git add .
 git commit -m "update"
 git push
 
+# Check remote id added or not.
+PS C:\Users\A102322081\Downloads\Tutedude_DevOps_Lab> git remote -v
+origin  git@github.com:chandandec1989/Tutedude_Devops.git (fetch)
+origin  git@github.com:chandandec1989/Tutedude_Devops.git (push)
+PS C:\Users\A102322081\Downloads\Tutedude_DevOps_Lab> 
+
+# Test git repo
+S C:\Users\A102322081\Downloads\Tutedude_DevOps_Lab> ssh -T git@github.com
+Hi chandandec1989! You've successfully authenticated, but GitHub does not provide shell access.
+
 • Git & GitHub Command:-
 1. Repository & Setup Shortcuts:-
 	i. Git init                               --     initialize new repository
